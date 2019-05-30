@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hide_seek_4005.wsgi:application
